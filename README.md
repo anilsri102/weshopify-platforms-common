@@ -1,0 +1,1 @@
+# weshopify-platforms-common
